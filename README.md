@@ -23,10 +23,10 @@ This Zsh plugin is designed to work with **Oh My Zsh** and allows easy switching
    source ~/.zshrc
    ```
 ## Configuration
-
-Alacritty Config File: The plugin expects the Alacritty configuration file to be located at: `ALACRITTY_CONFIG="${HOME}/.config/alacritty/alacritty.toml`
-Theme Directory: Themes are expected to be in `THEME_DIR=${HOME}/.config/alacritty/themes/themes/` by default. 
 Customize these paths as needed by editing the plugin script.
+
+  - Alacritty Config File: The plugin expects the Alacritty configuration file to be located at `ALACRITTY_CONFIG="${HOME}/.config/alacritty/alacritty.toml`
+  - Theme Directory: Themes are expected to be in `THEME_DIR=${HOME}/.config/alacritty/themes/themes/` by default. 
 
 ## Usage
 
